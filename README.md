@@ -36,4 +36,6 @@
 * (5:10pm to 6:00pm) Closing Keynote: Kent Beck
 
 
-
+## Links
+* [RailsConf 2015 Full Schedule](http://railsconf.com/schedule)
+* [RailsConf 2015 Talks Description](http://railsconf.com/program)
